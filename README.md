@@ -1,3 +1,4 @@
 Bootcamp DIO TQI Fullstack
-Desafio: Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
-
+Curso: Variáveis e tipos
+Módulo I: Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+Digital Innovation One
